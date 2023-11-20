@@ -1,4 +1,6 @@
+#include <stdio.h>
 #include "sort.h"
+
 /**
 * swap_f - swaps two elements in array.
 * @i: integer 1 to swap
